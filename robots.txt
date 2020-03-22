@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohsheiseza.465woerter.de/sitemap.xml
